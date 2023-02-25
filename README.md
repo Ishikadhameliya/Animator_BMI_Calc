@@ -1,16 +1,3 @@
-# bmi_animator_calc
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-02-25-16-55-11-19_9ed90842f6658e9fcda1d5b7528a7ab0](https://user-images.githubusercontent.com/121867953/221357189-eb9d56c4-6f49-4b69-831d-0bf8b8f7baf0.jpg)
+![Screenshot_2023-02-25-16-54-50-85_9ed90842f6658e9fcda1d5b7528a7ab0](https://user-images.githubusercontent.com/121867953/221357195-90decf3f-77c4-4218-b040-e1af1607bcf2.jpg)
+![Screenshot_2023-02-25-16-55-11-19_9ed90842f6658e9fcda1d5b7528a7ab0](https://user-images.githubusercontent.com/121867953/221357197-ad5f8079-7138-4cbf-bdaa-191176b00f83.jpg)
